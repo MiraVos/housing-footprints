@@ -1,0 +1,27 @@
+param,coefficient,p
+Intercept,2151.7358269750866,0.0
+"C(inc_lab, Treatment(reference='decile 1 (poorest)'))[T.decile 10 (richest)]",495.81826052288494,1.8195792370928292e-158
+"C(inc_lab, Treatment(reference='decile 1 (poorest)'))[T.decile 2]",-118.4907932330516,1.1756508084668565e-10
+"C(inc_lab, Treatment(reference='decile 1 (poorest)'))[T.decile 3]",-133.8225356004298,3.4212308403562446e-14
+"C(inc_lab, Treatment(reference='decile 1 (poorest)'))[T.decile 4]",-92.44555544307514,3.2222606745462505e-07
+"C(inc_lab, Treatment(reference='decile 1 (poorest)'))[T.decile 5]",-53.38181981215786,0.004234412804961172
+"C(inc_lab, Treatment(reference='decile 1 (poorest)'))[T.decile 6]",-29.987126419478155,0.10424373139465296
+"C(inc_lab, Treatment(reference='decile 1 (poorest)'))[T.decile 7]",-5.084457438127848,0.641370427613209
+"C(inc_lab, Treatment(reference='decile 1 (poorest)'))[T.decile 8]",54.6721511665302,0.00264157591522519
+"C(inc_lab, Treatment(reference='decile 1 (poorest)'))[T.decile 9]",145.29240888322028,5.165862837375426e-15
+"C(typology_lab, Treatment(reference='detached'))[T.multifamily]",-827.5805623126108,0.0
+"C(typology_lab, Treatment(reference='detached'))[T.row house]",-787.7785244906638,0.0
+"C(typology_lab, Treatment(reference='detached'))[T.semi-detached]",-649.4997694293312,0.0
+"C(const_lab, Treatment(reference='pre 1945'))[T.1946-1964]",-173.4966022137239,1.540845898914639e-40
+"C(const_lab, Treatment(reference='pre 1945'))[T.1965-1974]",-135.5478222294027,1.3325485437821478e-25
+"C(const_lab, Treatment(reference='pre 1945'))[T.1975-1991]",-167.1910910884015,3.5506985083256523e-37
+"C(const_lab, Treatment(reference='pre 1945'))[T.1992-2005]",-66.42628555213909,9.102774295975533e-07
+"C(const_lab, Treatment(reference='pre 1945'))[T.2006-2022]",-272.6573745672901,1.308449144259409e-76
+"C(density_lab, Treatment(reference='rural'))[T.high suburban]",23.734875566659117,0.409249683431577
+"C(density_lab, Treatment(reference='rural'))[T.low suburban]",14.207347241121322,0.5141889093469305
+"C(density_lab, Treatment(reference='rural'))[T.urban]",44.71424590391584,0.13766795712545735
+"C(density_lab, Treatment(reference='rural'))[T.very urban]",8.479132682745478,0.6962730585575272
+distance_train2019,0.007617821755200455,1.5561086553845052e-17
+distance_depstore2019,-0.0345959959418279,5.7088146513291016e-08
+distance_supermarket2019,0.24109562582088562,6.356882033214827e-39
+mean_hhd,487.4899017266613,9.787629777149146e-201
