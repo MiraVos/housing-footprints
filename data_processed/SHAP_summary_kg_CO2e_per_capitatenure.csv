@@ -1,0 +1,10 @@
+feature,shap_importance,cont_pc
+household_size,805.4961,31.267494
+tenure,527.4948,20.476128
+dwelling_size,291.63443,11.320574
+building_type,274.07715,10.639041
+population_density,246.4806,9.567807
+distance_train,163.02654,6.328313
+building_age,140.171,5.4411144
+cars_per_adult,68.14894,2.6453843
+distance_supermarket,59.61563,2.3141408

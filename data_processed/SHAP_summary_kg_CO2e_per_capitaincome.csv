@@ -1,0 +1,10 @@
+feature,shap_importance,cont_pc
+inc_decile,609.32227,28.794144
+population_density,406.53372,19.211164
+household_size,352.42624,16.65426
+dwelling_size,213.71445,10.099294
+building_age,197.9819,9.355836
+distance_train,121.00801,5.7183566
+building_type,105.4453,4.982925
+distance_supermarket,62.23101,2.9407897
+cars_per_adult,47.469746,2.2432313
