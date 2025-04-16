@@ -1,9 +1,9 @@
 feature,shap_importance,cont_pc
-building_age,73.830864,22.432474
-building_type,59.62686,18.116785
-heatpump_pc,52.81728,16.04779
-dwelling_size,48.47451,14.728301
-household_size,35.10505,10.666177
-districtheating_pc,31.827097,9.6702175
-inc_decile,17.512423,5.3209043
-population_density,9.930827,3.0173426
+building_age,73.864746,22.447271
+building_type,59.44941,18.066494
+heatpump_pc,52.7919,16.043299
+dwelling_size,48.785347,14.825719
+household_size,35.00575,10.638141
+districtheating_pc,31.829912,9.673014
+inc_decile,17.544147,5.331613
+population_density,9.7877,2.9744523

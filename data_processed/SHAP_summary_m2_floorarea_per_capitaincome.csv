@@ -1,8 +1,8 @@
 feature,shap_importance,cont_pc
-building_type,10.356491,43.775375
-household_size,4.4642544,18.869751
-population_density,2.555802,10.803002
-inc_decile,2.3370106,9.878202
-building_age,2.332208,9.857903
-distance_supermarket,0.921762,3.8961532
-distance_middleschool,0.69073,2.9196146
+building_type,10.286687,41.213818
+household_size,4.3755674,17.530798
+population_density,3.299358,13.218944
+building_age,2.3118253,9.262374
+inc_decile,2.3071191,9.243519
+distance_depstore,1.3974073,5.59874
+distance_supermarket,0.9813513,3.9318037
