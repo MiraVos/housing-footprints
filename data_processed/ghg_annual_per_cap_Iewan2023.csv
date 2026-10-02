@@ -1,0 +1,3 @@
+inc_lab,typology_lab,const_lab,density_lab,distance_train_lab,ghg_material_buildings,ghg_material_heatpump_iewan,ghg_material_furnace_pellet_iewan,ghg_heat_districtheating_iewan,ghg_gas_buildinguse_iewan,ghg_electricity_buildinguse_iewan,ghg_material_photovoltaic_iewan,ghg_car_mobilityuse_iewan,ghg_transit_mobilityuse_iewan,ghg_cycle_mobilityuse_iewan
+decile 1 (poorest),multifamily,2006-2022,high suburban,Iewan,206.57399573111363,19.3,78.0,0.0,0.0,0.0,99.4,0.0,31.2,1.2896
+decile 2,multifamily,2006-2022,high suburban,Iewan,206.57399573111363,19.3,78.0,0.0,0.0,0.0,99.4,3.9311999999999996,112.32000000000001,2.08

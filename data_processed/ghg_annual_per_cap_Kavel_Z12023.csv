@@ -1,0 +1,4 @@
+inc_lab,typology_lab,const_lab,density_lab,distance_train_lab,ghg_material_buildings,ghg_material_heatpump_kavel_z1,ghg_heat_districtheating_kavel_z1,ghg_gas_buildinguse_kavel_z1,ghg_electricity_buildinguse_kavel_z1,ghg_material_photovoltaic_kavel_z1,ghg_car_mobilityuse_kavel_z1,ghg_transit_mobilityuse_kavel_z1,ghg_cycle_mobilityuse_kavel_z1
+decile 1 (poorest),multifamily,2006-2022,high urban,Kavel_Z1,412.87557996956645,0.0,200.0,0.0,475.0,8.9,0.0,27.04,0.2696
+decile 2,multifamily,2006-2022,high urban,Kavel_Z1,412.87557996956645,0.0,200.0,0.0,447.0,8.9,0.0,14.02,0.4632
+decile 3,multifamily,2006-2022,high urban,Kavel_Z1,412.87557996956645,0.0,200.0,0.0,,8.9,,,

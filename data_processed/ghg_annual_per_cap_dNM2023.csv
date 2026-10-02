@@ -1,0 +1,4 @@
+inc_lab,typology_lab,const_lab,density_lab,distance_train_lab,ghg_material_buildings,ghg_material_heatpump_dnm,ghg_heat_districtheating_dnm,ghg_gas_buildinguse_dnm,ghg_electricity_buildinguse_dnm,ghg_material_photovoltaic_dnm,ghg_car_mobilityuse_dnm,ghg_transit_mobilityuse_dnm,ghg_cycle_mobilityuse_dnm
+decile 1 (poorest),multifamily,2006-2022,high urban,dNM,169.73721175599175,19.3,0.0,0.0,148.0,56.5,0.0,41.68,0.6252
+decile 2,multifamily,2006-2022,high urban,dNM,169.73721175599175,19.3,0.0,0.0,140.0,56.5,0.0,48.974000000000004,2.1882
+decile 3,multifamily,2006-2022,high urban,dNM,169.73721175599175,19.3,0.0,0.0,144.0,56.5,0.0,109.41,0.8336
